@@ -16,6 +16,6 @@
 <div align= "center"> 
   
 [![TECH BLOG badge](http://img.shields.io/badge/TECH%20BLOG-00B336?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@padd60/)](https://velog.io/@padd60)
-[![NAVER MAIL badge](http://img.shields.io/badge/MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white&link=padd60@naver.com/)](padd60@naver.com)
+[![NAVER MAIL badge](http://img.shields.io/badge/MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:padd60@naver.com/)](mailto:padd60@naver.com)
 
 </div>

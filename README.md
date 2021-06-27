@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20JungHwan&fontSize=70)
 <h3 align= "center"> ⚡️ My Tech Stacks ⚡️ </h3>
 
-<p align= "center"> Learning Stacks </p>
+<p align= "center"> Learning About </p>
 
 <div align= "center"> 
   

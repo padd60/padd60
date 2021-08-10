@@ -23,3 +23,6 @@
 [![NAVER MAIL badge](http://img.shields.io/badge/MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:padd60@naver.com/)](mailto:padd60@naver.com)
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padd60&theme=radical&show_icons=true)
+

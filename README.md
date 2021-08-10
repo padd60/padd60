@@ -24,5 +24,10 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padd60&theme=radical&show_icons=true)
+<hr>
 
+<div align='center'>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padd60&theme=radical&show_icons=true)
+  
+</div>

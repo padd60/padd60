@@ -14,7 +14,11 @@
 ![CSS badge](http://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![javascript badge](http://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javaScript&logoColor=white)
 ![java badge](http://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
+    <br>
 ![jQuery badge](http://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![vue badge](http://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Firebase badge](http://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
+![Bootstrap badge](http://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
   
 
 </div>

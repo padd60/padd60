@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20JungHwan&fontSize=70)
+# ✋ Hi There I'm JungHwan Kim
   
 </div>
 

@@ -19,7 +19,9 @@
 ![vue badge](http://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Firebase badge](http://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 ![Bootstrap badge](http://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-  
+![Python badge](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Flask badge](http://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![React badge](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 </div>
 

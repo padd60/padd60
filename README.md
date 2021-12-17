@@ -23,7 +23,9 @@
 ![Python badge](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Flask badge](http://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![React badge](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-
+![Spring badge](http://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![R badge](http://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+  
 </div>
 
 <br>

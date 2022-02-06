@@ -25,10 +25,10 @@
 ![React badge](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Redux badge](http://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
   <br>
-![styled-components badge](http://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![styled-components badge](http://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Spring badge](http://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![R badge](http://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-![MySQL badge](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=R&logoColor=white)
+![MySQL badge](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Next.js badge](http://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
   

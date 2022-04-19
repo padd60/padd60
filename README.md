@@ -15,20 +15,12 @@
 ![javascript badge](http://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javaScript&logoColor=white)
 ![java badge](http://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
     <br>
-![jQuery badge](http://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![vue badge](http://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Firebase badge](http://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 ![Bootstrap badge](http://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-    <br>
-![Python badge](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Flask badge](http://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![React badge](http://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Redux badge](http://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
   <br>
 ![styled-components badge](http://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Spring badge](http://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![R badge](http://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-![MySQL badge](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Next.js badge](http://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
   

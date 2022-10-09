@@ -35,9 +35,9 @@
 
 <div align= "center"> 
 
-[![TECH BLOG badge](http://img.shields.io/badge/TECH%20BLOG-00B336?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@padd60/)](https://velog.io/@padd60)
-[![NAVER MAIL badge](http://img.shields.io/badge/MAIL-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:padd60@naver.com/)](mailto:padd60@naver.com)
-[![Notion badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177/)](https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177)
+[![TECH BLOG badge](http://img.shields.io/badge/기술블로그-00B336?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@padd60/)](https://velog.io/@padd60)
+[![NAVER MAIL badge](http://img.shields.io/badge/메일-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:padd60@naver.com/)](mailto:padd60@naver.com)
+[![RESUME badge](http://img.shields.io/badge/이력서-000000?style=flat-square&logo=Notion&logoColor=white&link=https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177/)](https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177)
   
 </div>
 

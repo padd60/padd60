@@ -40,10 +40,3 @@
 [![RESUME badge](http://img.shields.io/badge/이력서-000000?style=flat-square&logo=Notion&logoColor=white&link=https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177/)](https://organized-viburnum-712.notion.site/07ec1972e67544898a61ccf8bcde0177)
   
 </div>
-
-
-<div align='center'>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padd60&theme=radical&show_icons=true)
-  
-</div>

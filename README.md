@@ -23,8 +23,11 @@
 ![Redux badge](http://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![styled-components badge](http://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Next.js badge](http://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-
-  
+![Cypress badge](http://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white)
+      <br>
+![Mui badge](http://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=Mui&logoColor=white)
+![socket.io badge](http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Ant Design badge](http://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=red)
   
 </div>
 

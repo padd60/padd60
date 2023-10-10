@@ -18,7 +18,7 @@
 
 **Framework :** Next.js
 
-**Library :** React, Vue, Redux(RTK), Pinia, Zustand, React-query, Emotion
+**Library :** React, Vue, Redux(RTK), Pinia, Recoil, Zustand, React-query, Emotion
 
 **Test :** Cypress
 

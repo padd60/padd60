@@ -6,7 +6,7 @@
 
 - 📞 **phone** : 010-2441-4838
 
-- 📚 **Blog  :** [**기술블로그**](https://velog.io/@padd60)
+- 📚 **Blog  :** [**기술블로그**](https://padd60.tistory.com/)
 
 - 📝 **Resume  :** [**노션이력서**](https://padd60.notion.site/f47ada41250f496bb64bbbfdefb299b4?pvs=4)
 

@@ -11,29 +11,10 @@
 
 ## 🛠 Skills
 
-### Languages
-- JavaScript, TypeScript
-
-### Frontend
-- React, Vue, Zustand, TanStack-query, Pinia
-
-### Styling
-- Tailwind CSS, Emotion
-
-### Testing
-- Cypress, Jest
-
-### Package Managers
-- pnpm, yarn berry (PnP)
-
-### Bundlers
-- webpack, vite
-
-### Architecture
-- Micro Frontend Architecture, Monorepo
-
-### CI/CD
-- GitHub Actions, AWS (S3, CloudFront, Route 53, Lambda Edge)
-
-### Tools
-- Slack, Jira, Confluence, Notion, VS Code, Cursor
+- **Frameworks & Runtimes**: React, Next.js, React Native, Vue 2/3
+- **State & Data**: TanStack Query, Zustand, Recoil, Pinia, Vuex
+- **Styling / Design System**: Tailwind CSS, shadcn/ui, Emotion, Styled-Components
+- **Build & Infra/Deploy**: Vite, Webpack, MFE(Module Federation), pnpm(monorepo), GitHub Actions, AWS
+- **Testing & Quality**: Jest, Cypress, Sentry
+- **Architecture & Patterns**: FSD(Feature-Sliced Design), Monorepo 관리, 성능 최적화
+- **Analytics/Etc.**: GA, Datadog, Airbridge(딥링크, 트래킹)

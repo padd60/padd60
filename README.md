@@ -7,7 +7,7 @@
 - **Email**: [padd60@naver.com](mailto:padd60@naver.com)
 - **GitHub**: [https://github.com/padd60](https://github.com/padd60)
 - **Blog**: [https://padd60.tistory.com/](https://padd60.tistory.com/)
-- **Resume  :** [**노션이력서**](https://padd60.notion.site/f47ada41250f496bb64bbbfdefb299b4?pvs=4)
+- **Resume  :** [**이력서**](https://padd60.github.io/)
 
 ## 🛠 Skills
 
